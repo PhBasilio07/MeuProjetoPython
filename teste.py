@@ -1,6 +1,6 @@
 print("Ola mundo")
 print("Linha 2")
-print("Pedro Henrique"
+print("Pedro Henrique")
 
 valor=10
 if valor <= 10:
